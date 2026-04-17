@@ -1,0 +1,16 @@
+{
+  "id": "8aaf51e4-d171-45f1-9c25-9f6775f9968d",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "berapa harga layanan B?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga Layanan B adalah Rp 1.000.000 per bulan. Jika Anda membutuhkan informasi lebih lanjut, Anda dapat menghubungi email support@xyz.co.id atau telepon 021-12345678."
+    }
+  ],
+  "created_at": "2025-09-10T08:18:58.729102",
+  "updated_at": "2025-09-10T08:19:01.625456"
+}

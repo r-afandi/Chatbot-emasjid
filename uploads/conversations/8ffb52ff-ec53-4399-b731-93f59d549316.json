@@ -1,0 +1,16 @@
+{
+  "id": "8ffb52ff-ec53-4399-b731-93f59d549316",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apakah Paket Basic Rp500.000/tahun sudah termasuk fitur Campaign Donasi?"
+    },
+    {
+      "role": "assistant",
+      "content": "Saat ini, **Paket Basic Rp500.000/tahun** di **emasjid.id** **tidak** termasuk fitur **Campaign Donasi**. Fitur Campaign Donasi biasanya tersedia pada paket yang lebih tinggi, seperti **Paket Standard** atau **Paket Premium**.  \n\nUntuk informasi lebih detail mengenai fitur-fitur yang termasuk dalam Paket Basic atau paket lainnya, Anda dapat:  \n1. Mengunjungi situs resmi [emasjid.id](https://emasjid.id)  \n2. Menghubungi tim support emasjid.id melalui **WhatsApp** atau **email** yang tertera di website.  \n\nJika Anda membutuhkan fitur Campaign Donasi, pertimbangkan untuk memilih paket yang lebih lengkap. Semoga membantu! \ud83d\ude0a"
+    }
+  ],
+  "created_at": "2026-04-16T15:53:43.736952",
+  "updated_at": "2026-04-16T15:53:51.962698"
+}

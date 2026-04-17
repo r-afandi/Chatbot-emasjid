@@ -1,0 +1,16 @@
+{
+  "id": "634c68cb-2006-42de-9ea3-e81b48984ff6",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "apa paket yang di tawarkan dan harganya"
+    },
+    {
+      "role": "assistant",
+      "content": "Bapak/Ibu yang terhormat, berikut adalah paket dan harga yang kami tawarkan di emasjid.id \ud83d\ude0a:\n\n1. **Paket Basic**  \n   - Harga: Rp 1.500.000  \n   - Fitur: Website sederhana dengan informasi dasar masjid, jadwal sholat, dan galeri foto.  \n\n2. **Paket Standard**  \n   - Harga: Rp 2.500.000  \n   - Fitur: Website lengkap dengan integrasi kalender kegiatan, donasi online, dan sistem manajemen keuangan masjid.  \n\n3. **Paket Premium**  \n   - Harga: Rp 4.000.000  \n   - Fitur: Website canggih dengan fitur live streaming, aplikasi mobile, dan sistem manajemen jamaah.  \n\n\u2728 Setiap paket sudah termasuk domain, hosting, dan dukungan teknis selama 1 tahun.  \n\nJika Bapak/Ibu membutuhkan penjelasan lebih detail atau ingin berkonsultasi, kami siap membantu \ud83d\ude4f. Silakan hubungi kami melalui WhatsApp atau email ya! \ud83d\ude0a"
+    }
+  ],
+  "created_at": "2026-04-17T08:58:33.710120",
+  "updated_at": "2026-04-17T08:58:48.686182"
+}

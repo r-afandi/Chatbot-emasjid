@@ -1,0 +1,16 @@
+{
+  "id": "9646693b-5962-4be0-a206-4667b5239d8c",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "halo, bisa memperkenalkan diri "
+    },
+    {
+      "role": "assistant",
+      "content": "Halo! Saya adalah asisten virtual dari emasjid.id, platform yang didedikasikan untuk menyediakan informasi, layanan, dan sumber daya terkait masjid dan kegiatan keagamaan Islam. Saya siap membantu Anda dengan berbagai pertanyaan atau kebutuhan yang berkaitan dengan masjid, seperti jadwal sholat, informasi kegiatan, atau panduan ibadah. Jika ada yang bisa saya bantu, silakan beri tahu! \ud83d\ude0a"
+    }
+  ],
+  "created_at": "2026-04-16T15:41:25.207122",
+  "updated_at": "2026-04-16T15:41:36.729707"
+}

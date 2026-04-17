@@ -1,0 +1,16 @@
+{
+  "id": "db4f2be9-6561-4fed-af8b-ee768f04b911",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "apa paket yang di tawarkan"
+    },
+    {
+      "role": "assistant",
+      "content": "Waalaikumsalam Bapak/Ibu, \ud83d\ude4f  \n\nTerima kasih atas pertanyaannya! \ud83d\ude0a Emasjid.id menawarkan berbagai paket layanan digital untuk memudahkan pengelolaan masjid, di antaranya:  \n\n1. **Paket Dasar**  \n   - Website masjid sederhana  \n   - Manajemen donasi online  \n   - Fitur jadwal sholat otomatis  \n\n2. **Paket Premium**  \n   - Semua fitur Paket Dasar  \n   - Integrasi sistem keuangan (laporan otomatis)  \n   - Aplikasi mobile untuk jamaah  \n   - Fitur event/kajian online  \n\n3. **Paket Khusus**  \n   - Custom website & aplikasi  \n   - Pelatihan untuk pengurus masjid  \n   - Support prioritas 24/7  \n\nSetiap paket bisa disesuaikan dengan kebutuhan masjid Bapak/Ibu. \u2728 Apakah ada fitur spesifik yang sedang dicari? Kami siap membantu rekomendasikan solusi terbaik!  \n\nSilakan juga kunjungi [emasjid.id/paket](https://emasjid.id/paket) untuk detail lengkapnya. \ud83d\ude0a"
+    }
+  ],
+  "created_at": "2026-04-17T08:45:03.463425",
+  "updated_at": "2026-04-17T08:45:17.541477"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "91795162-aab5-417a-99b1-87d6409e7f40",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "jelakan apa itu coding"
+    },
+    {
+      "role": "assistant",
+      "content": "Coding, atau dalam bahasa Indonesia sering disebut sebagai *pemrograman*, adalah proses menulis, menguji, dan memelihara kode atau instruksi yang digunakan untuk membuat program komputer. Kode ini ditulis dalam bahasa pemrograman tertentu, seperti Python, JavaScript, Java, C++, dan banyak lagi. Tujuannya adalah untuk memberi tahu komputer apa yang harus dilakukan, sehingga komputer dapat menjalankan tugas tertentu sesuai dengan keinginan pengembang.\n\n### Beberapa hal penting tentang coding:\n1. **Bahasa Pemrograman**: Ada banyak bahasa pemrograman, masing-masing memiliki sintaks (aturan penulisan) dan kegunaan yang berbeda. Misalnya:\n   - **Python**: Sering digunakan untuk pengembangan web, analisis data, dan kecerdasan buatan.\n   - **JavaScript**: Biasanya digunakan untuk pengembangan web (front-end dan back-end).\n   - **Java**: Digunakan untuk aplikasi Android, sistem enterprise, dan lain-lain.\n   - **C++**: Sering digunakan untuk pengembangan game, sistem operasi, dan aplikasi yang membutuhkan kinerja tinggi.\n\n2. **Algoritma**: Coding melibatkan pembuatan algoritma, yaitu langkah-langkah logis untuk menyelesaikan suatu masalah. Misalnya, bagaimana cara mengurutkan data atau mencari informasi tertentu.\n\n3. **Debugging**: Proses mencari dan memperbaiki kesalahan (bug) dalam kode. Ini"
+    }
+  ],
+  "created_at": "2025-09-10T08:19:15.586602",
+  "updated_at": "2025-09-10T08:19:27.389078"
+}

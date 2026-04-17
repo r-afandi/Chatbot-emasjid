@@ -1,0 +1,16 @@
+{
+  "id": "b4ed23f6-7af3-4e35-bb58-8247050d5f31",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Form Pendataan emasjid.id ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Maaf, saya tidak memiliki akses ke formulir atau situs web emasjid.id. Namun, jika Anda memiliki pertanyaan atau informasi yang ingin Anda bagikan, saya akan dengan senang hati membantu Anda. Apakah ada sesuatu yang bisa saya bantu?"
+    }
+  ],
+  "created_at": "2026-04-16T13:44:20.834647",
+  "updated_at": "2026-04-16T13:44:24.250613"
+}

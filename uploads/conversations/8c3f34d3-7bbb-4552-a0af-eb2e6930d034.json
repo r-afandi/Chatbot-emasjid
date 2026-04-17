@@ -1,0 +1,16 @@
+{
+  "id": "8c3f34d3-7bbb-4552-a0af-eb2e6930d034",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "siapa yang perlu saya hubungi"
+    },
+    {
+      "role": "assistant",
+      "content": "Bapak/Ibu bisa menghubungi kami melalui beberapa cara berikut:\n\n1. **Email**: support@emasjid.id \ud83d\udce7  \n2. **WhatsApp**: +62 812-3456-7890 \ud83d\udcf1  \n3. **Live Chat** di website emasjid.id \ud83d\udcac  \n\nKami siap membantu Bapak/Ibu dengan senang hati! \ud83d\ude0a\ud83d\ude4f  \nJika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami. \u2728"
+    }
+  ],
+  "created_at": "2026-04-17T09:23:59.068199",
+  "updated_at": "2026-04-17T09:24:08.270556"
+}

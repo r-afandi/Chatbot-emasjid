@@ -1,0 +1,16 @@
+{
+  "id": "9c3b7f44-f09d-487d-bd51-79bde89a50c1",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "saya sudahjh aktivasi akun emasjid?"
+    },
+    {
+      "role": "assistant",
+      "content": "Maaf, saya tidak memiliki informasi tentang aktivasi akun eMasjid. Namun, jika Anda memiliki pertanyaan atau masalah terkait aktivasi akun eMasjid, saya sarankan untuk menghubungi layanan pelanggan eMasjid atau mengunjungi situs web resmi mereka untuk bantuan lebih lanjut. Apakah ada yang bisa saya bantu?"
+    }
+  ],
+  "created_at": "2026-04-16T14:05:13.155423",
+  "updated_at": "2026-04-16T14:05:15.890603"
+}

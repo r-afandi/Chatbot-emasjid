@@ -1,0 +1,16 @@
+{
+  "id": "801afc3c-e416-4c7a-b9ce-f473c32bd0ad",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Form Pendataan ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Error generating response: 401 Client Error: Unauthorized for url: https://api.openai.com/v1/chat/completions"
+    }
+  ],
+  "created_at": "2026-04-16T11:53:04.184406",
+  "updated_at": "2026-04-16T11:53:06.848310"
+}

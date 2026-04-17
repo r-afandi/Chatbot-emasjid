@@ -1,0 +1,16 @@
+{
+  "id": "0aca6b09-c364-4ff4-b02f-845e98544899",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hallo"
+    },
+    {
+      "role": "assistant",
+      "content": "Hallo! \ud83d\ude0a Wie kann ich dir heute helfen? Brauchst du Informationen, Hilfe bei etwas Bestimmtem oder hast du einfach nur Lust zu plaudern?"
+    }
+  ],
+  "created_at": "2025-09-10T08:29:44.136269",
+  "updated_at": "2025-09-10T08:29:48.912293"
+}

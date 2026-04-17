@@ -1,0 +1,16 @@
+{
+  "id": "5e33b75c-311a-4fd4-913a-99d8ac20232d",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Bagaimana pesan balasan atau template setelah akun masjid berhasil diaktivasi?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tentu, berikut adalah contoh pesan balasan atau template yang bisa digunakan setelah akun masjid berhasil diaktivasi:\n\n---\n\n**Subject: Akun Masjid Anda Telah Diaktivasi**\n\nHalo [Nama Masjid],\n\nKami senang memberitahukan bahwa akun Masjid Anda telah berhasil diaktivasi. Sekarang Anda dapat mulai menggunakan fitur-fitur platform kami untuk mengelola kegiatan dan informasi masjid dengan lebih efisien.\n\nJika Anda memiliki pertanyaan atau membutuhkan bantuan, jangan ragu untuk menghubungi tim dukungan kami di support@masjidplatform.com.\n\nTerima kasih atas kepercayaan Anda kepada kami. Semoga platform kami dapat membantu Anda dalam mengelola masjid dengan lebih baik.\n\nSalam,\nTim Masjid Platform\n\n---\n\nAnda dapat menyesuaikan pesan tersebut sesuai dengan kebutuhan dan gaya komunikasi masjid Anda. Semoga membantu! Jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya."
+    }
+  ],
+  "created_at": "2026-04-16T14:02:15.726060",
+  "updated_at": "2026-04-16T14:02:21.442563"
+}

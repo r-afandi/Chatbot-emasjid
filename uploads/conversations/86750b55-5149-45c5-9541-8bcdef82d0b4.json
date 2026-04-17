@@ -1,0 +1,16 @@
+{
+  "id": "86750b55-5149-45c5-9541-8bcdef82d0b4",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apakah produk yang ada di emasjid.id?"
+    },
+    {
+      "role": "assistant",
+      "content": "Maaf, saya tidak menemukan jawaban yang relevan."
+    }
+  ],
+  "created_at": "2026-04-16T15:04:13.515719",
+  "updated_at": "2026-04-16T15:04:13.550475"
+}

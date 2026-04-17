@@ -1,0 +1,16 @@
+{
+  "id": "aa2897e6-894a-4592-8e73-3fe0b54da75e",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Form Pendataan ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tentu, berikut adalah contoh form pendataan sederhana yang bisa Anda gunakan:\n\nForm Pendataan\n1. Nama Lengkap:\n2. Umur:\n3. Alamat:\n4. Jenis Kelamin:\n5. Pekerjaan:\n6. Nomor Telepon:\n7. Email:\n8. Pertanyaan Tambahan (jika ada):\n\nSilakan isi form di atas dengan data yang benar. Jika ada pertanyaan lebih lanjut, jangan ragu untuk bertanya. Terima kasih!"
+    }
+  ],
+  "created_at": "2026-04-16T12:00:02.152809",
+  "updated_at": "2026-04-16T12:00:05.087622"
+}

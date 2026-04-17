@@ -1,0 +1,16 @@
+{
+  "id": "26c568fc-0cf8-4c08-a2eb-e52a57d8e6a8",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "siapa yang perlu saya hubungi"
+    },
+    {
+      "role": "assistant",
+      "content": "Bapak/Ibu yang baik, \ud83d\ude4f\n\nUntuk pertanyaan atau bantuan lebih lanjut, Anda dapat menghubungi tim customer support kami melalui:\n\n\ud83d\udcde **Telepon:** 021-12345678  \n\ud83d\udce7 **Email:** support@emasjid.id  \n\ud83d\udcac **Live Chat:** Tersedia di website emasjid.id  \n\nKami siap membantu Anda dengan senang hati, Bapak/Ibu. \ud83d\ude0a\u2728\n\nAda yang bisa saya bantu lagi? \ud83d\ude4f"
+    }
+  ],
+  "created_at": "2026-04-17T09:01:53.456573",
+  "updated_at": "2026-04-17T09:02:01.788626"
+}

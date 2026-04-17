@@ -1,0 +1,16 @@
+{
+  "id": "fb100baa-c0fc-4da8-b677-eb4ed1bf1adb",
+  "user_id": "user",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa jam operasional?"
+    },
+    {
+      "role": "assistant",
+      "content": "Maaf, saya tidak menemukan jawaban yang relevan."
+    }
+  ],
+  "created_at": "2026-04-16T11:45:53.180552",
+  "updated_at": "2026-04-16T11:45:53.211298"
+}
