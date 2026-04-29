@@ -17,11 +17,14 @@ class Settings(BaseSettings):
     ANTHROPIC_API_KEY: str = ""
     GEMINI_API_KEY: str = ""
     DEEPSEEK_API_KEY: str = ""
+    # Tambahkan ini di class Settings, di bawah DEEPSEEK_API_KEY
+    DEFAULT_MODEL: str = "deepseek/deepseek-chat"
     
     # Vector DB settings
     QDRANT_HOST: str = "./qdrant_data"
     QDRANT_PORT: int = 6333
     QDRANT_COLLECTION: str = "docs"
+    QDRANT_API_KEY: str = ""
     
     # File storage settings
     FILE_STORAGE_PATH: str = "./uploads"

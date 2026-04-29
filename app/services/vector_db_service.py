@@ -17,10 +17,10 @@ class VectorDBService:
                 # Use local path for persistent storage
                 self.client = qdrant_client.QdrantClient(path=settings.QDRANT_HOST)
         else:
-            # Use remote mode
+            # Use remote mode (Qdrant Cloud)
             self.client = qdrant_client.QdrantClient(
-                host=settings.QDRANT_HOST,
-                port=settings.QDRANT_PORT
+                url=f"https://{settings.QDRANT_HOST}:{settings.QDRANT_PORT}",
+                api_key=settings.QDRANT_API_KEY
             )
         
         # Initialize embedding model

@@ -255,7 +255,8 @@ async def telegram_webhook(update: dict):
         internal_response = await ask_question(Question(
             question=text,
             conversation_id=conversation_id,
-            model="openai/gpt-3.5-turbo"  # Tambahkan baris ini agar sama dengan UI
+            model=settings.DEFAULT_MODEL  
+
         ))
         
         # Send response back to Telegram
