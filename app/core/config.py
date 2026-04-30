@@ -7,6 +7,9 @@ class Settings(BaseSettings):
     PROJECT_NAME: str = "Chatbot Backend"
     VERSION: str = "1.0.0"
     API_V1_STR: str = "/api/v1"
+
+    WHATSAPP_BOT_NUMBER: str = "6285142951617"  
+
     
     # CORS settings
     BACKEND_CORS_ORIGINS: List[AnyHttpUrl] = []
@@ -26,6 +29,9 @@ class Settings(BaseSettings):
     QDRANT_COLLECTION: str = "docs"
     QDRANT_API_KEY: str = ""
     
+    # Fonte    
+    FONNTE_TOKEN: str = ""
+
     # File storage settings
     FILE_STORAGE_PATH: str = "./uploads"
     TELEGRAM_BOT_TOKEN: str = ""
